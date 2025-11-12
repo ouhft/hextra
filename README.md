@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hextra</h1>
+  <h1 align="center">Hextra (OUH Fork)</h1>
   <sup align="center"><a href="README.md">English</a> | <a href="README.zh-cn.md">简体中文</a> ｜ <a href="README.fa.md">فارسی</a></sup>
   <p align="center">Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.</p>
 
