@@ -1,3 +1,3 @@
-module github.com/imfing/hextra
+module github.com/ouhft/hextra
 
 go 1.20
